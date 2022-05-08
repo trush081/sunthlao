@@ -1,8 +1,10 @@
-# Overview
+# Sunthlao
 
 Sunthlao is a work in progress React App that is going to be used for displaying personal projects/random interests. and to show off a little with my GCP experiene in the future. It is currently set up using GCR (Google Cloud Run) due to efficiency with cost and set up. Eventual plans are to migrate this to either App Engine or even a VM using Google Compute Engine. 
 
 There isn't much now but make sure to take a look at some of the components and projects in the future.
+
+[Sunthao](https://sunthlao.com).
 
 ## Components
 
