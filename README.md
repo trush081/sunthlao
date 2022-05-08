@@ -4,7 +4,7 @@ Sunthlao is a work in progress React App that is going to be used for displaying
 
 There isn't much now but make sure to take a look at some of the components and projects in the future.
 
-[Sunthao](https://sunthlao.com).
+[Sunthao.com](https://sunthlao.com)
 
 ## Components
 
